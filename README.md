@@ -32,8 +32,8 @@
 
 1. **Клонувати репозиторій:**
    ```bash
-   git clone <your-repo-url>
-   cd exam
+   git clone https://github.com/Dmytro-Butnyk/ShoppingList.git
+   cd ShoppingList
    ```
 
 2. **Встановити залежності:**
